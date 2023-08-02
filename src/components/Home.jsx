@@ -54,7 +54,7 @@ const Home = () => {
         </a>
         <a
           className="link"
-          href="https://www.instagram.com/shunnu.ig"
+          href="https://www.instagram.com/shunnu02"
           target="_blank"
         >
           <i className="fab fa-instagram">&nbsp;</i>Instagram
